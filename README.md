@@ -1,3 +1,3 @@
 # my_nbooks
 Damon Krauch
-#https://mybinder.org/v2/gh/DamonCoolBeans/my_nbooks/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DamonCoolBeans/my-_nbooks/HEAD)
